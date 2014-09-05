@@ -1,7 +1,7 @@
 package actor
 
 import (
-	"lang"
+	"github.com/hishboy/gocommons/lang"
 	"reflect"
 	"runtime"
 )

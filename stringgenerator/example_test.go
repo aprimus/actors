@@ -4,7 +4,7 @@ package stringgenerator_test
 
 import (
 	"fmt"
-	"stringgenerator"
+	"github.com/aprimus/actor/stringgenerator"
 )
 
 func ExampleNewGenerator() {

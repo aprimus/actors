@@ -1,8 +1,8 @@
 package actor
 
 import (
-	"actor/stringgenerator"
-	"immutable/imHash"
+	"github.com/aprimus/actor/stringgenerator"
+	"github.com/aprimus/immutable/imHash"
 	"reflect"
 	"sync"
 	"time"

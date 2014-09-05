@@ -1,7 +1,7 @@
 package actor
 
 import (
-	"immutable/imHash"
+	"github.com/aprimus/immutable/imHash"
 	"reflect"
 )
 
